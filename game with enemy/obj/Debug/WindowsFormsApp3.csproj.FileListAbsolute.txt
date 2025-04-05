@@ -1,0 +1,166 @@
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Desktop\Новая папка (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\narut\OneDrive\Рабочий стол\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+D:\Download\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Download\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Download\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Download\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\narut\OneDrive\Рабочий стол\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр7\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Downloads\пр8.1\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\пр81\пр8\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\11\11\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.ShopForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.ShopForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.AuthorsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.MainMenu.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.OptionsForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.PauseMenu.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp2.ShopForm.resources
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student.SPBIEM\Downloads\WindowsFormsApp\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
